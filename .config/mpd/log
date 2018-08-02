@@ -1,0 +1,126 @@
+Aug 02 02:37 : avahi: Failed to add service _mpd._tcp: Local name collision
+Aug 02 02:37 : exception: Failed to open /home/cameron/.config/mpd/state: No such file or directory
+Aug 02 02:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 02:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 02:37 : update: added Tool-Vicarious-CDS-FLAC-2006-SCORN/01-tool-vicarious_(album_version).flac
+Aug 02 02:37 : update: added Tool-72826-[Remastered]-FLAC-ACAB/72826/06-jerk-off.flac
+Aug 02 02:37 : update: added Tool-72826-[Remastered]-FLAC-ACAB/72826/04-crawl_away.flac
+Aug 02 02:37 : update: added Tool-72826-[Remastered]-FLAC-ACAB/72826/02-hush.flac
+Aug 02 02:37 : update: added Tool-72826-[Remastered]-FLAC-ACAB/72826/05-sober.flac
+Aug 02 02:37 : update: added Tool-72826-[Remastered]-FLAC-ACAB/72826/03-part_of_me.flac
+Aug 02 02:37 : update: added Tool-72826-[Remastered]-FLAC-ACAB/72826/01-cold_and_ugly.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/09-tool-jimmy.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/12-tool-cesaro_summability.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/02-tool-eulogy.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/11-tool-pushit.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/15-tool-third_eye.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/13-tool-aenema.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/10-tool-die_eier_von_satan.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/14-tool-(-)_ions.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/08-tool-intermission.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/05-tool-forty_six_and_2.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/03-tool-h.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/01-tool-stinkfist.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/07-tool-hooker_with_a_penis.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/06-tool-message_to_harry_manback.flac
+Aug 02 02:37 : update: added Tool-Aenima-CD-FLAC-1996-SCORN/04-tool-useful_idiot.flac
+Aug 02 02:37 : update: added Tool-Opiate-CDEP-FLAC-1992-SCORN/02-tool-hush.flac
+Aug 02 02:37 : update: added Tool-Opiate-CDEP-FLAC-1992-SCORN/06-tool-opiate.flac
+Aug 02 02:37 : update: added Tool-Opiate-CDEP-FLAC-1992-SCORN/03-tool-part_of_me.flac
+Aug 02 02:37 : update: added Tool-Opiate-CDEP-FLAC-1992-SCORN/05-tool-jerk-off_(live).flac
+Aug 02 02:37 : update: added Tool-Opiate-CDEP-FLAC-1992-SCORN/04-tool-cold_and_ugly_(live).flac
+Aug 02 02:37 : update: added Tool-Opiate-CDEP-FLAC-1992-SCORN/01-tool-sweat.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/02-tool-eon_blue_apocalypse.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/13-tool-faaip_de_oiad.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/01-tool-the_grudge.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/06-tool-parabol.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/11-tool-reflection.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/03-tool-the_patient.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/04-tool-mantra.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/08-tool-ticks_and_leeches.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/07-tool-parabola.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/09-tool-lateralus.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/05-tool-schism.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/10-tool-disposition.flac
+Aug 02 02:37 : update: added Tool-Lateralus-CD-FLAC-2001-SCORN/12-tool-triad.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/06-tool-swamp_song.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/08-tool-4_degrees.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/03-tool-sober.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/09-tool-flood.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/02-tool-prison_sex.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/04-tool-bottom.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/07-tool-undertow.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/10-tool-disgustipated.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/05-tool-crawl_away.flac
+Aug 02 02:37 : update: added Tool-Undertow-CD-FLAC-1993-SCORN/01-tool-intolerance.flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/11-tool-viginti_tres.flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/10-tool-right_in_two.flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/02-tool-jambi.flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/05-tool-the_pot.flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/06-tool-lipan_conjuring.flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/04-tool-10000_days_(wings_part_2).flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/03-tool-wings_for_marie_(part_1).flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/01-tool-vicarious.flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/07-tool-lost_keys_(blame_hofmann).flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/08-tool-rosetta_stoned.flac
+Aug 02 02:37 : update: added Tool-10000_Days-CD-FLAC-2006-SCORN/09-tool-intension.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/07-tool-jerk-off_(live)-flacoff.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/04-tool-opiate_(live)-flacoff.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/03-tool-sober_(live)-flacoff.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/08-tool-prison_sex_(live)-flacoff.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/02-tool-undertow_(live)-flacoff.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/09-tool-bottom_(live)-flacoff.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/06-tool-prison_sex_(live)-flacoff.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/01-tool-sober_(album_version)-flacoff.flac
+Aug 02 02:37 : update: added Tool-Sober_-_Tales_From_The_Darkside-CDS-FLAC-1994-FlacoFF/05-tool-flood_(live)-flacoff.flac
+Aug 02 02:37 : update: added /03-tool-pushit_(live).flac
+Aug 02 02:37 : update: added Tool-Salival-CD-FLAC-2000-DeVOiD/06-tool-merkaba_(live).flac
+Aug 02 02:37 : update: added Tool-Salival-CD-FLAC-2000-DeVOiD/01-tool-third_eye_(live).flac
+Aug 02 02:37 : update: added Tool-Salival-CD-FLAC-2000-DeVOiD/07-tool-no_quarter.flac
+Aug 02 02:37 : update: added Tool-Salival-CD-FLAC-2000-DeVOiD/05-tool-you_lied_(live).flac
+Aug 02 02:37 : update: added Tool-Salival-CD-FLAC-2000-DeVOiD/04-tool-message_to_harry_manback_ii.flac
+Aug 02 02:37 : update: added Tool-Salival-CD-FLAC-2000-DeVOiD/03-tool-pushit_(live).flac
+Aug 02 02:37 : update: added Tool-Salival-CD-FLAC-2000-DeVOiD/02-tool-part_of_me_(live).flac
+Aug 02 02:37 : update: added Tool-Salival-CD-FLAC-2000-DeVOiD/08-tool-l.a.m.c._and_hidden_track_maynards_dick.flac
+Aug 02 02:50 : avahi: Failed to add service _mpd._tcp: Local name collision
+Aug 02 02:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 02:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 02:53 : client: [0] opened from 127.0.0.1:40204
+Aug 02 02:53 : client: [0] closed
+Aug 02 02:53 : update: added /toolpush.flac
+Aug 02 02:53 : update: added /Front_Center.wav
+Aug 02 03:03 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 03:03 : avahi: Service 'Music Player' successfully established.
+Aug 02 03:05 : avahi: Failed to add service _mpd._tcp: Local name collision
+Aug 02 03:05 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 03:05 : client: [0] opened from 127.0.0.1:36536
+Aug 02 03:12 : player: played "Tool-10000_Days-CD-FLAC-2006-SCORN/01-tool-vicarious.flac"
+Aug 02 03:14 : exception: Failed to decode /home/cameron/Music/03-tool-pushit_(live).flac
+Aug 02 03:14 : exception: nested: Failed to open /home/cameron/Music/03-tool-pushit_(live).flac: No such file or directory
+Aug 02 03:14 : player: played "03-tool-pushit_(live).flac"
+Aug 02 03:14 : exception: Failed to decode /home/cameron/Music/03-tool-pushit_(live).flac
+Aug 02 03:14 : exception: nested: Failed to open /home/cameron/Music/03-tool-pushit_(live).flac: No such file or directory
+Aug 02 03:14 : exception: Failed to decode /home/cameron/Music/toolpush.flac
+Aug 02 03:14 : exception: nested: Failed to open /home/cameron/Music/toolpush.flac: No such file or directory
+Aug 02 03:14 : player: played "toolpush.flac"
+Aug 02 04:04 : client: [0] closed
+Aug 02 04:10 : client: [1] opened from 127.0.0.1:36996
+Aug 02 04:11 : client: [1] closed
+Aug 02 04:11 : client: [2] opened from 127.0.0.1:37000
+Aug 02 04:12 : client: [2] closed
+Aug 02 04:12 : client: [3] opened from 127.0.0.1:37002
+Aug 02 04:13 : client: [3] closed
+Aug 02 04:14 : client: [4] opened from 127.0.0.1:37004
+Aug 02 04:15 : client: [4] closed
+Aug 02 04:20 : client: [5] opened from 127.0.0.1:37014
+Aug 02 04:24 : client: [5] closed
+Aug 02 04:25 : client: [6] opened from 127.0.0.1:37044
+Aug 02 04:25 : client: [6] closed
+Aug 02 04:26 : player: played "Tool-Vicarious-CDS-FLAC-2006-SCORN/01-tool-vicarious_(album_version).flac"
+Aug 02 04:26 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Aug 02 04:26 : avahi: Service 'Music Player' successfully established.
+Aug 02 04:26 : client: [0] opened from 127.0.0.1:37050
+Aug 02 04:29 : player: played "Tool-Vicarious-CDS-FLAC-2006-SCORN/01-tool-vicarious_(album_version).flac"
+Aug 02 04:38 : player: played "Tool-Lateralus-CD-FLAC-2001-SCORN/06-tool-parabol.flac"
+Aug 02 04:44 : player: played "Tool-Lateralus-CD-FLAC-2001-SCORN/07-tool-parabola.flac"
+Aug 02 05:04 : player: played "Tool-Lateralus-CD-FLAC-2001-SCORN/05-tool-schism.flac"
