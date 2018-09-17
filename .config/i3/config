@@ -30,7 +30,7 @@ font pango:Hack, FontAwesome 12
 floating_modifier $mod
 
 # start a terminal
-bindsym $mod+Return exec urxvt
+bindsym $mod+Return exec urxvt -e /bin/zsh
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -39,6 +39,10 @@ bindsym $mod+Shift+q kill
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
+
+# i3-gaps sizes
+gaps inner 15
+gaps outer 15
 
 # change focus
 bindsym $mod+j focus left
@@ -90,7 +94,9 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
+bindsym $mod+Shift+t gaps inner current set 15; gaps outer current set 15
 
+# For i3status if used
 set $workspace1 "1: Code "
 set $workspace2 "2: Web "
 set $workspace3 "3: Games "
@@ -120,10 +126,6 @@ bindsym $mod+Shift+7 move container to workspace 7
 bindsym $mod+Shift+8 move container to workspace 8
 bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to $workspace10
-
-
-assign [class="discord"] $workspace4
-assign [class="Steam"] $workspace3
 
 
 # reload the configuration file
@@ -176,23 +178,28 @@ hide_edge_borders both
 
 set $transparent #00000000
 
+# with this set client colors does not matter
+new_window pixel 0
+
+exec_always --no-startup-id $HOME/.config/polybar/launch.sh
+
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-	i3bar_command i3bar
-        status_command i3status
-	font pango:Hack, FontAwesome 11
-	position top
-	colors {
-		background $bg-color
-	    	separator #757575
+#bar {
+	#i3bar_command ~/.config/polybar/launch.sh
+        #status_command i3bar
+	#font pango:Hack, FontAwesome 11
+	#position top
+	#colors {
+#		background $bg-color
+#	    	separator #757575
 		#                  border             background         text
-		focused_workspace  $bg-color          $bg-color          $text-color
-		inactive_workspace $bg-color 	$bg-color 	$inactive-text-color
-		urgent_workspace   $urgent-bg-color   $urgent-bg-color   $text-color
-	}
+#		focused_workspace  $bg-color          $bg-color          $text-color
+#		inactive_workspace $bg-color 	$bg-color 	$inactive-text-color
+#		urgent_workspace   $urgent-bg-color   $urgent-bg-color   $text-color
+#	}
 
-}
+#}
 
 bindsym $mod+shift+x exec i3lock --color 292929
 
@@ -218,6 +225,7 @@ exec_always feh --bg-scale ~/Pictures/wallpaper.jpg
 
 exec_always xrandr --output HDMI-1-1 --off --output eDP-1-1 --mode 1920x1080 --pos 0x0 --rotate normal --output DP-1 --off --output HDMI-0 --primary --mode 1920x1080 --pos 1920x0 --rotate normal --output DP-1-1 --off --output DP-0 --off
 
+# j4-dmenu-desktop requires install from AUR;  dmenu_run
 bindsym $mod+d exec j4-dmenu-desktop
 
 exec --no-startup-id compton -f
